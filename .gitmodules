@@ -1,18 +1,18 @@
 [submodule "Regression_Lines"]
 	path = Regression_Lines
-	url = https://github.com/EducationShinyAppTeam/Regression_Lines
+	url = ../Regression_Lines
 [submodule "Measures_of_Association"]
 	path = Measures_of_Association
-	url = https://github.com/EducationShinyAppTeam/Measures_of_Association
+	url = ../Measures_of_Association
 [submodule "Location_and_Variation"]
 	path = Location_and_Variation
-	url = https://github.com/EducationShinyAppTeam/Location_and_Variation
+	url = ../Location_and_Variation
 [submodule "Effect_of_Outliers"]
 	path = Effect_of_Outliers
-	url = https://github.com/EducationShinyAppTeam/Effect_of_Outliers
+	url = ../Effect_of_Outliers
 [submodule "Descriptive_Statistics"]
 	path = Descriptive_Statistics
-	url = https://github.com/EducationShinyAppTeam/Descriptive_Statistics
+	url = ../Descriptive_Statistics
 [submodule "Correlation_Guessing"]
 	path = Correlation_Guessing
-	url = https://github.com/EducationShinyAppTeam/Correlation_Guessing
+	url = ../Correlation_Guessing
